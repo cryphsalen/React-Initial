@@ -1,0 +1,26 @@
+[
+    {
+        "id": 0,
+        "title": "tarea 1",
+        "descripcion": "Programar",
+        "done": true
+    },
+    {
+        "id": 1,
+        "title": "tarea 2",
+        "descripcion": "Crossfit",
+        "done": false
+    },
+    {
+        "id": 2,
+        "title": "tarea 3",
+        "descripcion": "Cocinar",
+        "done": true
+    },
+    {
+        "id": 3,
+        "title": "tarea 4",
+        "descripcion": "Inglés",
+        "done": false
+    }
+]
